@@ -1,0 +1,157 @@
+/*........................ start navbar ......................... */
+
+img {
+
+    width: 180px;
+}
+
+div.links {
+    width: 150px;
+    height: 260px;
+    margin-top: 50px;
+    margin-left: -100px;
+    background-color: #f7f7f7;
+    border: 1px solid black;
+
+}
+
+ul {
+
+    margin-left: -30px;
+
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+
+
+}
+
+
+
+.links ul li a {
+    color: #161716;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+.links ul li a:hover {
+    color: #f2b407;
+
+}
+
+.links ul li {
+
+    display: flex;
+    align-items: flex-start;
+}
+
+.togg {
+
+    border: none;
+    outline: none !important;
+    box-shadow: none !important;
+
+
+}
+
+/* ......................end of navbar ...................*/
+
+/*..................... input field style  ...............*/
+
+.service-input {
+    border: none;
+    border-bottom: 1px solid #e8e4e3;
+    border-radius: 0;
+    outline: none !important;
+    box-shadow: none !important;
+
+}
+
+.input{
+    padding: 0.8rem;
+}
+
+.btnn {
+    text-align: center;
+    font-size: 15px;
+    width: 8rem
+}
+
+.navBar {
+    background-color: white;
+}
+
+
+/* ......................end input field .........................*/
+
+
+/* ....................Search services style........................ */
+
+.search_ser {
+
+    text-decoration: none;
+    color: #18191a;
+
+}
+
+.search_ser:hover {
+    color: black;
+}
+
+
+.heading{
+    
+    position: relative;   
+  }
+
+  .heading::after{
+      content: '';
+      position: absolute;
+      background: #f5e105;
+      height: 3px;
+      width: 30%;
+      left: 0;
+      bottom: 0; 
+      top: 25px;  
+    }
+/*......................... footer style............................... */
+
+.foot {
+    width: 100%;
+    height: 310px;
+
+}
+
+.img1 {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 18px;
+    margin-left: 25px;
+}
+
+.a-style {
+    text-decoration: none;
+    color: white;
+}
+
+.a-style:hover {
+    color: yellow;
+}
+
+.ul-style {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* for test */
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+
+    /* or */
+    /* float: left; */

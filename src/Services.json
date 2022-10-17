@@ -1,0 +1,20 @@
+[
+    
+    {"consult":"Talk to a Lawyer","tax":"Private Limited Company / OPC","documentation":"Non Disclosure Agreement NDA"},
+    {"consult":"Talk to a CA","tax":"Limited Liability Partnership","documentation":"Service Level Agreement"},
+    {"consult":"Talk to a CS","tax":"CFSS","documentation":"Franchise Agreement"},
+    {"consult":"Private Limited Company","tax":"Add a Director","documentation":"Master Service Agreement"},
+    {"consult":"Limited Liability Partnership","tax":"Remove a Director","documentation":"Shareholders Agreement"},
+    {"consult":"One Person Company","tax":"Increase Authorized Capital","documentation":"Joint Venture Agreement"},
+    {"tax":"Close the Pvt Ltd Company","documentation":"Founders Agreement"},
+    {"tax":"Change Objective/Activity","documentation":"Vendor Agreement"},
+    {"tax":"Change Address","documentation":"Consultancy Agreement"},
+    {"tax":"Change Company Name","documentation":"Memorandum of Understanding"},
+    {"tax":"GST Registration","documentation":"Make a Will"},
+    {"tax":"GST Filing","documentation":"Power of Attorney"},
+    {"tax":"GST Advisory","documentation":"Terms of Service"},
+    {"tax":"Accounting and Book-keeping","documentation":"GDPR"},
+    {"tax":"Payroll Maintenance","documentation":"Disclaimer"}
+
+]
+
